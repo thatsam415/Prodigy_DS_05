@@ -22,8 +22,7 @@ This dataset contains over **7.7 million** records of traffic accidents across *
 
 ## 📌 Project Structure
 ├── Traffic_Accident_Analysis.ipynb # Main Jupyter Notebook
-├── README.md # Project Overview and Instructions
-└── US_Accidents_March23.csv # Dataset (downloaded locally)
+└── README.md # Project Overview and Instructions
 
 ---
 
